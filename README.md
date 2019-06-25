@@ -6,7 +6,7 @@ Demonstrates how to use many views and controls in the UIKit framework on tvOS. 
 
 ### Build
 
-Xcode 8.0 and tvOS 10.0 SDK or later
+Xcode 10.2.1 and tvOS 10.0 SDK or later
 
 ### Runtime
 
